@@ -1,0 +1,4 @@
+getting-started
+===============
+
+Setup info
